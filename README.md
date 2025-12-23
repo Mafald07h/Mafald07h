@@ -1,6 +1,6 @@
 ## Olá a todos, me chamo Heitor Silva Mafaldo 
 
-- 🔭 Estudante do Instituto Federal da Paraíba - CR 
+- 🔭 Formado pelo Instituto Federal da Paraíba - CR 
 - 🌱 Estudanto Django+React JS
 - 🖥️ Amo tecnologias Front-End e Back-End
 
