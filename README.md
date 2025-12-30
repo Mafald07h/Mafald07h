@@ -28,5 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" width="30" height="30"/>
 
-## Fique a vontade para explorar e conhecer mais sobre os meus trabalhos 😉
+## Fique a vontade para explorar e conhecer mais sobre os meus trabalhos  😉
 Commit todos os dias de 2026
