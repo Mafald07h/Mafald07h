@@ -6,6 +6,7 @@
 
   I graduated from the Federal Institute of Paraíba, Catolé do Rocha Campus, and during my high school years, I developed skills and experience in various areas of computer science, such as Algorithms and Programming Logic, Computer Fundamentals, Databases, Object-Oriented Programming, Systems Analysis and Design, Operating Systems, Hardware Fundamentals, Web Applications, Special Topics (where I learned about the Django Python framework), Mobile Application Development, and Computer Networks. I enjoy learning both Front-End and Back-End technologies.
 
+## Social Medias 
 <div align="left">
   <a href="http://www.youtube.com/@heitormcp" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://www.instagram.com/mafaldoheitor/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -13,7 +14,7 @@
   <a href="https://www.threads.com/@mafaldoheitor" target="_blank"> <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="threads logo" /> <a/>
 </div>
 
-## Principais tecnologias
+## My Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -27,5 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" width="30" height="30"/>
 
-## Fique a vontade para explorar e conhecer mais sobre os meus trabalhos 😉
 Commit todos os dias de 2026
