@@ -1,11 +1,10 @@
 ## Olá a todos, me chamo Heitor Silva Mafaldo 🇧🇷
 
-- 🔭 Formado pelo Instituto Federal da Paraíba - CR 
-- 🌱 Estudanto Django
-- 🖥️ Amo tecnologias Front-End e Back-End
+  Sou formado pelo Instituto Federal da Paraíba Campus Catolé do Rocha, e durante o meu ensino médio, desenvolvi hábilidades e experiências em diversa áreas da informática, como Algoritmos e Lógica de Programação, Fundamentos do Computador, Banco de dados, Programação Orientada a Objetos, Análise e Projeto de Sistemas, Sistemas Operacionais, Fundamentos de Hardware, Aplicações WEB, Tópicos Especiais, o qual aprendi acerca do framework python Django, Desenvolvimento de Aplicações para Dispositivos Móveis e Redes de Computadores. Gosto de aprender tanto tecnologias Front-End quanto Back-End. 
 
 ## Hello Everyone, My name is Heitor Silva Mafaldo 🇺🇸
 
+  I graduated from the Federal Institute of Paraíba, Catolé do Rocha Campus, and during my high school years, I developed skills and experience in various areas of computer science, such as Algorithms and Programming Logic, Computer Fundamentals, Databases, Object-Oriented Programming, Systems Analysis and Design, Operating Systems, Hardware Fundamentals, Web Applications, Special Topics (where I learned about the Django Python framework), Mobile Application Development, and Computer Networks. I enjoy learning both Front-End and Back-End technologies.
 
 <div align="left">
   <a href="http://www.youtube.com/@heitormcp" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
