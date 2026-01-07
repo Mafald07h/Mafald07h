@@ -1,10 +1,10 @@
-## Olá a todos, me chamo Heitor Silva Mafaldo 
+## Olá a todos, me chamo Heitor Silva Mafaldo 🇧🇷
 
 - 🔭 Formado pelo Instituto Federal da Paraíba - CR 
 - 🌱 Estudanto Django
 - 🖥️ Amo tecnologias Front-End e Back-End
 
-
+## Hello Everyone, My name is Heitor Silva Mafaldo 🇺🇸
 
 
 <div align="left">
