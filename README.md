@@ -1,3 +1,5 @@
+> Start README.md
+
 ## Olá a todos, me chamo Heitor Silva Mafaldo 🇧🇷
 
   Sou formado pelo Instituto Federal da Paraíba Campus Catolé do Rocha, e durante o meu ensino médio, desenvolvi hábilidades e experiências em diversa áreas da informática, como Algoritmos e Lógica de Programação, Fundamentos do Computador, Banco de dados, Programação Orientada a Objetos, Análise e Projeto de Sistemas, Sistemas Operacionais, Fundamentos de Hardware, Aplicações WEB, Tópicos Especiais, o qual aprendi acerca do framework python Django, Desenvolvimento de Aplicações para Dispositivos Móveis e Redes de Computadores. Gosto de aprender tanto tecnologias Front-End quanto Back-End. Além disso, conquistei diversos certificados da <a href="https://www.alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=google&utm_medium=cpc&campaign_id=386166608_21666755648_696280649243&utm_id=386166608_21666755648_696280649243&hsa_acc=7964138385&hsa_cam=%5BSearch%5D+%5BPerformance%5D+-+Institucional&hsa_grp=21666755648&hsa_ad=696280649243&hsa_src=g&hsa_tgt=aud-546438175126:kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=google&hsa_ver=3&gad_source=1&gad_campaignid=386166608&gbraid=0AAAAADpqZIDS1pm38cIr0Yg3DUPrSKioQ&gclid=CjwKCAiAjojLBhAlEiwAcjhrDoggmjjzlP_RVb_duv_0QyO-XAtqzkKeq8rKkzz1vxfcpSlh2tMONhoCjR0QAvD_BwE" target="_blank" >Alura</a>, uma das maiores escolas de tecnologia do Brasil.
@@ -40,3 +42,5 @@
 <em>Commit todos os dias de 2026</em>
 
 <hr>
+
+> End README.md
