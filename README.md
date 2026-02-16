@@ -35,4 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Git Logo" width="30" height="30"/>
 </div>
 
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Mafald07h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 <em>Commit todos os dias de 2026</em>
