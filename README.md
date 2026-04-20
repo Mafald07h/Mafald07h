@@ -39,7 +39,7 @@
 
 <hr>
 
-<em>Commit todos os dias de 2026 | Complicado </em>
+<em>Commit todos os dias de 2026 </em>
 
 <hr>
 
